@@ -49,7 +49,7 @@ var map = new Datamap({
     setProjection: function (element) {
 
         var projection = d3.geo.mercator()
-            .center([-74,3]) // always in [East Latitude, North Longitude]
+            .center([-75,3]) // always in [East Latitude, North Longitude]
             //.center([4.570868,-74.2973328]) // always in [East Latitude, North Longitude]
             .scale(element.offsetWidth*4)
             .translate([element.offsetWidth / 2, element.offsetHeight / 2]);

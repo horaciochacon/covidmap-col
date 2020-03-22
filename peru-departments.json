@@ -40660,7 +40660,7 @@
           "properties": {
             "NOMBDEP": "AMAZONAS",
             "COUNT": 84,
-            "FIRST_IDDP": "01",
+            "id": "01",
             "HECTARES": 3930646.567
           }
         },
@@ -40677,7 +40677,7 @@
           "properties": {
             "NOMBDEP": "ANCASH",
             "COUNT": 166,
-            "FIRST_IDDP": "02",
+            "id": "02",
             "HECTARES": 3596224.6
           }
         },
@@ -40693,7 +40693,7 @@
           "properties": {
             "NOMBDEP": "APURIMAC",
             "COUNT": 80,
-            "FIRST_IDDP": "03",
+            "id": "03",
             "HECTARES": 2111415.17
           }
         },
@@ -40716,7 +40716,7 @@
           "properties": {
             "NOMBDEP": "AREQUIPA",
             "COUNT": 109,
-            "FIRST_IDDP": "04",
+            "id": "04",
             "HECTARES": 6325588.935
           }
         },
@@ -40738,7 +40738,7 @@
           "properties": {
             "NOMBDEP": "AYACUCHO",
             "COUNT": 111,
-            "FIRST_IDDP": "05",
+            "id": "05",
             "HECTARES": 4350381.783
           }
         },
@@ -40756,7 +40756,7 @@
           "properties": {
             "NOMBDEP": "CAJAMARCA",
             "COUNT": 127,
-            "FIRST_IDDP": "06",
+            "id": "06",
             "HECTARES": 3304465.549
           }
         },
@@ -40771,7 +40771,7 @@
           "properties": {
             "NOMBDEP": "CALLAO",
             "COUNT": 6,
-            "FIRST_IDDP": "07",
+            "id": "07",
             "HECTARES": 14140.954
           }
         },
@@ -40794,7 +40794,7 @@
           "properties": {
             "NOMBDEP": "CUSCO",
             "COUNT": 108,
-            "FIRST_IDDP": "08",
+            "id": "08",
             "HECTARES": 7207614.24
           }
         },
@@ -40811,7 +40811,7 @@
           "properties": {
             "NOMBDEP": "HUANCAVELICA",
             "COUNT": 94,
-            "FIRST_IDDP": "09",
+            "id": "09",
             "HECTARES": 2206503.876
           }
         },
@@ -40831,7 +40831,7 @@
           "properties": {
             "NOMBDEP": "HUANUCO",
             "COUNT": 76,
-            "FIRST_IDDP": "10",
+            "id": "10",
             "HECTARES": 3720052.603
           }
         },
@@ -40849,7 +40849,7 @@
           "properties": {
             "NOMBDEP": "ICA",
             "COUNT": 43,
-            "FIRST_IDDP": "11",
+            "id": "11",
             "HECTARES": 2108076.66
           }
         },
@@ -40870,7 +40870,7 @@
           "properties": {
             "NOMBDEP": "JUNIN",
             "COUNT": 123,
-            "FIRST_IDDP": "12",
+            "id": "12",
             "HECTARES": 4399729.222
           }
         },
@@ -40890,7 +40890,7 @@
           "properties": {
             "NOMBDEP": "LA LIBERTAD",
             "COUNT": 83,
-            "FIRST_IDDP": "13",
+            "id": "13",
             "HECTARES": 2529596.876
           }
         },
@@ -40907,7 +40907,7 @@
           "properties": {
             "NOMBDEP": "LAMBAYEQUE",
             "COUNT": 38,
-            "FIRST_IDDP": "14",
+            "id": "14",
             "HECTARES": 1434230.801
           }
         },
@@ -40929,7 +40929,7 @@
           "properties": {
             "NOMBDEP": "LIMA",
             "COUNT": 171,
-            "FIRST_IDDP": "15",
+            "id": "15",
             "HECTARES": 3498999.431
           }
         },
@@ -40947,7 +40947,7 @@
           "properties": {
             "NOMBDEP": "LORETO",
             "COUNT": 51,
-            "FIRST_IDDP": "16",
+            "id": "16",
             "HECTARES": 37511598.865
           }
         },
@@ -40964,7 +40964,7 @@
           "properties": {
             "NOMBDEP": "MADRE DE DIOS",
             "COUNT": 11,
-            "FIRST_IDDP": "17",
+            "id": "17",
             "HECTARES": 8504586.569
           }
         },
@@ -40981,7 +40981,7 @@
           "properties": {
             "NOMBDEP": "MOQUEGUA",
             "COUNT": 20,
-            "FIRST_IDDP": "18",
+            "id": "18",
             "HECTARES": 1580730.977
           }
         },
@@ -41000,7 +41000,7 @@
           "properties": {
             "NOMBDEP": "PASCO",
             "COUNT": 28,
-            "FIRST_IDDP": "19",
+            "id": "19",
             "HECTARES": 2411394.892
           }
         },
@@ -41018,7 +41018,7 @@
           "properties": {
             "NOMBDEP": "PIURA",
             "COUNT": 64,
-            "FIRST_IDDP": "20",
+            "id": "20",
             "HECTARES": 3606506.675
           }
         },
@@ -41060,7 +41060,7 @@
           "properties": {
             "NOMBDEP": "PUNO",
             "COUNT": 109,
-            "FIRST_IDDP": "21",
+            "id": "21",
             "HECTARES": 6796281.696
           }
         },
@@ -41077,7 +41077,7 @@
           "properties": {
             "NOMBDEP": "SAN MARTIN",
             "COUNT": 77,
-            "FIRST_IDDP": "22",
+            "id": "22",
             "HECTARES": 5096125.898
           }
         },
@@ -41093,7 +41093,7 @@
           "properties": {
             "NOMBDEP": "TACNA",
             "COUNT": 27,
-            "FIRST_IDDP": "23",
+            "id": "23",
             "HECTARES": 1608306.709
           }
         },
@@ -41108,7 +41108,7 @@
           "properties": {
             "NOMBDEP": "TUMBES",
             "COUNT": 13,
-            "FIRST_IDDP": "24",
+            "id": "24",
             "HECTARES": 469026.014
           }
         },
@@ -41128,7 +41128,7 @@
           "properties": {
             "NOMBDEP": "UCAYALI",
             "COUNT": 15,
-            "FIRST_IDDP": "25",
+            "id": "25",
             "HECTARES": 10534176.378
           }
         }
