@@ -40657,10 +40657,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "01",
           "properties": {
             "NOMBDEP": "AMAZONAS",
             "COUNT": 84,
-            "id": "01",
             "HECTARES": 3930646.567
           }
         },
@@ -40674,10 +40674,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "02",
           "properties": {
             "NOMBDEP": "ANCASH",
             "COUNT": 166,
-            "id": "02",
             "HECTARES": 3596224.6
           }
         },
@@ -40690,10 +40690,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "03",
           "properties": {
             "NOMBDEP": "APURIMAC",
             "COUNT": 80,
-            "id": "03",
             "HECTARES": 2111415.17
           }
         },
@@ -40713,10 +40713,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "04",
           "properties": {
             "NOMBDEP": "AREQUIPA",
             "COUNT": 109,
-            "id": "04",
             "HECTARES": 6325588.935
           }
         },
@@ -40735,10 +40735,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "05",
           "properties": {
             "NOMBDEP": "AYACUCHO",
             "COUNT": 111,
-            "id": "05",
             "HECTARES": 4350381.783
           }
         },
@@ -40753,10 +40753,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "06",
           "properties": {
             "NOMBDEP": "CAJAMARCA",
             "COUNT": 127,
-            "id": "06",
             "HECTARES": 3304465.549
           }
         },
@@ -40768,10 +40768,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "07",
           "properties": {
             "NOMBDEP": "CALLAO",
             "COUNT": 6,
-            "id": "07",
             "HECTARES": 14140.954
           }
         },
@@ -40791,10 +40791,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "08",
           "properties": {
             "NOMBDEP": "CUSCO",
             "COUNT": 108,
-            "id": "08",
             "HECTARES": 7207614.24
           }
         },
@@ -40808,10 +40808,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "09",
           "properties": {
             "NOMBDEP": "HUANCAVELICA",
             "COUNT": 94,
-            "id": "09",
             "HECTARES": 2206503.876
           }
         },
@@ -40828,10 +40828,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "10",
           "properties": {
             "NOMBDEP": "HUANUCO",
             "COUNT": 76,
-            "id": "10",
             "HECTARES": 3720052.603
           }
         },
@@ -40846,10 +40846,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "11",
           "properties": {
             "NOMBDEP": "ICA",
             "COUNT": 43,
-            "id": "11",
             "HECTARES": 2108076.66
           }
         },
@@ -40867,10 +40867,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "12",
           "properties": {
             "NOMBDEP": "JUNIN",
             "COUNT": 123,
-            "id": "12",
             "HECTARES": 4399729.222
           }
         },
@@ -40887,10 +40887,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "13",
           "properties": {
             "NOMBDEP": "LA LIBERTAD",
             "COUNT": 83,
-            "id": "13",
             "HECTARES": 2529596.876
           }
         },
@@ -40904,10 +40904,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "14",
           "properties": {
             "NOMBDEP": "LAMBAYEQUE",
             "COUNT": 38,
-            "id": "14",
             "HECTARES": 1434230.801
           }
         },
@@ -40926,10 +40926,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "15",
           "properties": {
             "NOMBDEP": "LIMA",
             "COUNT": 171,
-            "id": "15",
             "HECTARES": 3498999.431
           }
         },
@@ -40944,10 +40944,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "16",
           "properties": {
             "NOMBDEP": "LORETO",
             "COUNT": 51,
-            "id": "16",
             "HECTARES": 37511598.865
           }
         },
@@ -40961,10 +40961,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "17",
           "properties": {
             "NOMBDEP": "MADRE DE DIOS",
             "COUNT": 11,
-            "id": "17",
             "HECTARES": 8504586.569
           }
         },
@@ -40978,10 +40978,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "18",
           "properties": {
             "NOMBDEP": "MOQUEGUA",
             "COUNT": 20,
-            "id": "18",
             "HECTARES": 1580730.977
           }
         },
@@ -40997,10 +40997,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "19",
           "properties": {
             "NOMBDEP": "PASCO",
             "COUNT": 28,
-            "id": "19",
             "HECTARES": 2411394.892
           }
         },
@@ -41015,10 +41015,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "20",
           "properties": {
             "NOMBDEP": "PIURA",
             "COUNT": 64,
-            "id": "20",
             "HECTARES": 3606506.675
           }
         },
@@ -41057,10 +41057,10 @@
             ]
           ],
           "type": "MultiPolygon",
+          "id": "21",
           "properties": {
             "NOMBDEP": "PUNO",
             "COUNT": 109,
-            "id": "21",
             "HECTARES": 6796281.696
           }
         },
@@ -41074,10 +41074,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "22",
           "properties": {
             "NOMBDEP": "SAN MARTIN",
             "COUNT": 77,
-            "id": "22",
             "HECTARES": 5096125.898
           }
         },
@@ -41090,10 +41090,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "23",
           "properties": {
             "NOMBDEP": "TACNA",
             "COUNT": 27,
-            "id": "23",
             "HECTARES": 1608306.709
           }
         },
@@ -41105,10 +41105,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "24",
           "properties": {
             "NOMBDEP": "TUMBES",
             "COUNT": 13,
-            "id": "24",
             "HECTARES": 469026.014
           }
         },
@@ -41125,10 +41125,10 @@
             ]
           ],
           "type": "Polygon",
+          "id": "25",
           "properties": {
             "NOMBDEP": "UCAYALI",
             "COUNT": 15,
-            "id": "25",
             "HECTARES": 10534176.378
           }
         }
